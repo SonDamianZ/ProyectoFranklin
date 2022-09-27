@@ -39,7 +39,7 @@ public class Main {
         
         //* agregar los pasos
         
-        receta.setDificultad(Dificultad.FACIL);
+        receta.setDificultad(Dificultad.LEGENDARIO);
        
     
     }
